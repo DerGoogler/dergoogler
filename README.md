@@ -1,16 +1,26 @@
-### Hi there 👋
+# About Me
+Hello, I am an 18 year old developer from Germany.
 
-<!--
-**DerGoogler/DerGoogler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
+- [Vue.js Template](https://github.com/DerGoogler/Vue.js)
+- [Website](https://github.com/DerGoogler/dergoogler.github.io)
 
-Here are some ideas to get you started:
+## My Apps
+All the apps listed here are available!
+<br>
+- [Bota64 App](https://play.google.com/store/apps/details?id=com.dergoogler.bota64)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why Bota64?
+I wanted my own encryption tool,
+that's why I developed Bota64!
+<br>
+Bota64 is written with the following components:
+- HTML
+- CSS
+- JS
+- JAVA
+- ONSENUI (it used HTML, CSS & JS)
+<br>
+To get some values in a dialog use i a javascript interface.
+<br>
+🤓
