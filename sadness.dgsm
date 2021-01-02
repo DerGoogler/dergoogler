@@ -4,10 +4,10 @@ body {
   overflow: hidden;
   cursor:move;
 }
-</style>
-
+<style>
+<page>
 <canvas id="canv" width="2265" height="1465"></canvas>
-
+<page>
 <script>
 window.requestAnimFrame = (function(callback) {
   return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame ||
@@ -203,4 +203,4 @@ window.onload = function() {
   }
   resize();
 };
-</script>
+<script>
