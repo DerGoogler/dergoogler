@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Der_Googler</title>
+    <link href="https://dergoogler.github.io/feed.xml" rel="self" />
+    <link href="https://dergoogler.github.io" />
+    <updated>2021-02-16T18:02:34+01:00</updated>
+    <author>
+        <name>Der_Googler</name>
+    </author>
+    <id>https://dergoogler.github.io</id>
+
+    <entry>
+        <title>Sample Post</title>
+        <author>
+            <name>Der_Googler</name>
+        </author>
+        <link href="https://dergoogler.github.io/sample-post.html"/>
+        <id>https://dergoogler.github.io/sample-post.html</id>
+
+        <updated>2021-02-16T18:02:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I’ll test it lol
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I’ll test it lol</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

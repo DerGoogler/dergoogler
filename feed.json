@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Der_Googler",
+    "description": "",
+    "home_page_url": "https://dergoogler.github.io",
+    "feed_url": "https://dergoogler.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Der_Googler"
+    },
+    "items": [
+        {
+            "id": "https://dergoogler.github.io/sample-post.html",
+            "url": "https://dergoogler.github.io/sample-post.html",
+            "title": "Sample Post",
+            "summary": "I’ll test it lol",
+            "content_html": "<p>I’ll test it lol</p>\n",
+            "author": {
+                "name": "Der_Googler"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-16T18:02:34+01:00",
+            "date_modified": "2021-02-16T18:02:34+01:00"
+        }
+    ]
+}
