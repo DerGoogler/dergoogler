@@ -46,5 +46,9 @@
     {
         "name": "mit Nagel Lena",
         "type": "PLAYING"
+    },
+    {
+        "name": "mit Klem-Bausteine",
+        "type": "PLAYING"
     }
 ]
