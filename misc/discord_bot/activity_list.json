@@ -1,7 +1,8 @@
 [
     {
         "name": "mit deiner Freundin",
-        "type": "PLAYING"
+        "type": "PLAYING",
+        "status": "status"
     },
     {
         "name": "Hartz und herzlich",
@@ -18,7 +19,8 @@
     },
     {
         "name": "HAARPER - PUKE",
-        "type": "LISTENING"
+        "type": "LISTENING",
+        "status": "idle"
     },
     {
         "name": "HAARPER - DEAD TO ME",
