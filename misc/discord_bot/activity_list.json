@@ -3,5 +3,56 @@
         "name": "mit deiner Freundin",
         "type": "PLAYING",
         "status": "status"
+    },
+    {
+        "name": "Hartz und herzlich",
+        "type": "WATCHING"
+    },
+    {
+        "name": "9/11 - Tag des unglücks",
+        "type": "WATCHING"
+    },
+    {
+        "name": "Wurde von einen Noob getötet! 🤑🤬 | Fortnite Deutsch",
+        "type": "STREAMING",
+        "url": "https://www.twitch.tv/realSpaX"
+    },
+    {
+        "name": "HAARPER - PUKE",
+        "type": "LISTENING",
+        "status": "idle"
+    },
+    {
+        "name": "HAARPER - DEAD TO ME",
+        "type": "LISTENING"
+    },
+    {
+        "name": "B.ZERO (Prod. NIGHTMVRE)",
+        "type": "LISTENING"
+    },
+    {
+        "name": "Lena, 30km von dir entfernt.",
+        "type": "WATCHING"
+    },
+    {
+        "name": "Komm 1v1 Fortnite! Easy Clap!!",
+        "type": "STREAMING",
+        "url": "https://www.twitch.tv/realSpaX"
+    },
+    {
+        "name": "Bock auf Snap? 😏",
+        "type": "PLAYING"
+    },
+    {
+        "name": "mit Nagel Lena",
+        "type": "PLAYING"
+    },
+    {
+        "name": "mit Klemmbausteinen!",
+        "type": "PLAYING"
+    },
+    {
+        "name": "Harry Potter und die Kammer des Cocks",
+        "type": "WATCHING"
     }
 ]
