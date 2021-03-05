@@ -1,18 +1,176 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Der_Googler</title><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://dergoogler.github.io/"><link rel="alternate" type="application/atom+xml" href="https://dergoogler.github.io/feed.xml"><link rel="alternate" type="application/json" href="https://dergoogler.github.io/feed.json"><meta property="og:title" content="Der_Googler"><meta property="og:site_name" content="Der_Googler"><meta property="og:description" content=""><meta property="og:url" content="https://dergoogler.github.io/"><meta property="og:type" content="website"><style>:root{--body-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--heading-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--logo-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--menu-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}</style><link rel="stylesheet" href="https://dergoogler.github.io/assets/css/style.css?v=1d9126d5c592483966037cf187b30969"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Der_Googler","url":"https://dergoogler.github.io/"}</script></head><body><div class="site-container"><header class="top" id="js-header"><a class="logo" href="https://dergoogler.github.io/">Der_Googler</a></header><main><div class="hero"><header class="hero__content"><div class="wrapper"><h1>Welcome to my blog :)</h1><p>Create a unique and beautiful blog quickly and easily.</p><div class="post__meta post__meta--author"><a href="https://dergoogler.github.io/authors/der_googler/" class="feed__author invert">Der_Googler</a></div></div></header></div><div class="feed"><article class="feed__item"><header class="wrapper"><div class="feed__meta"><a href="https://dergoogler.github.io/authors/der_googler/" class="feed__author invert">Der_Googler</a> <time datetime="2021-02-16T18:02" class="feed__date">February 16, 2021</time></div><h2><a href="https://dergoogler.github.io/sample-post.html" class="invert">Sample Post</a></h2></header><div class="wrapper"><p>I’ll test it lol</p><a href="https://dergoogler.github.io/sample-post.html" class="readmore feed__readmore invert">Continue reading...</a></div></article></div></main><footer class="footer"><div class="footer__copyright">Powered by <a href="https://getpublii.com" target="_blank" rel="nofollow noopener">Publii</a></div><button class="footer__bttop js-footer__bttop" aria-label="Back to top"><svg><title>Back to top</title><use xlink:href="https://dergoogler.github.io/assets/svg/svg-map.svg#toparrow"/></svg></button></footer></div><script>window.publiiThemeMenuConfig = {    
-        mobileMenuMode: 'sidebar',
-        animationSpeed: 300,
-        submenuWidth: 'auto',
-        doubleClickTime: 500,
-        mobileMenuExpandableSubmenus: true, 
-        relatedContainerForOverlayMenuSelector: '.top',
-   };</script><script defer="defer" src="https://dergoogler.github.io/assets/js/scripts.min.js?v=f4c4d35432d0e17d212f2fae4e0f8247"></script><script>var images = document.querySelectorAll('img[loading]');
+<!DOCTYPE html>
+<html>
 
-        for (var i = 0; i < images.length; i++) {
-            if (images[i].complete) {
-                images[i].classList.add('is-loaded');
-            } else {
-                images[i].addEventListener('load', function () {
-                    this.classList.add('is-loaded');
-                }, false);
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+            background: white;
+            display: grid;
+            place-content: center;
+            height: calc(100vh - 20px);
+            grid-gap: 16px;
+        }
+        
+        button {
+            width: 250px;
+            height: 50px;
+            border: none;
+            margin: 5px;
+            color: #fff;
+            font-weight: bold;
+            background: #016de7;
+            border-radius: 100px;
+            font-size: 16px;
+            outline: none;
+        }
+        
+        button.hover:active {
+            background: #055fc7;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <h1>
+            <count id="click-counter">0</count>
+        </h1>
+        <button id="up" class="hover">+</button>
+        <button id="down" class="hover">-</button>
+    </center>
+    <script>
+        (() => {
+            "use strict";
+
+            function t(n) {
+                return (t = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(t) {
+                    return typeof t
+                } : function(t) {
+                    return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
+                })(n)
             }
-        }</script></body></html>
+
+            function n(t, n) {
+                if (!(t instanceof n)) throw new TypeError("Cannot call a class as a function")
+            }
+
+            function e(t, n) {
+                for (var e = 0; e < n.length; e++) {
+                    var o = n[e];
+                    o.enumerable = o.enumerable || !1, o.configurable = !0, "value" in o && (o.writable = !0), Object.defineProperty(t, o.key, o)
+                }
+            }
+
+            function o(n, e) {
+                return !e || "object" !== t(e) && "function" != typeof e ? function(t) {
+                    if (void 0 === t) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+                    return t
+                }(n) : e
+            }
+
+            function r(t) {
+                var n = "function" == typeof Map ? new Map : void 0;
+                return (r = function(t) {
+                    if (null === t || (e = t, -1 === Function.toString.call(e).indexOf("[native code]"))) return t;
+                    var e;
+                    if ("function" != typeof t) throw new TypeError("Super expression must either be null or a function");
+                    if (void 0 !== n) {
+                        if (n.has(t)) return n.get(t);
+                        n.set(t, o)
+                    }
+
+                    function o() {
+                        return c(t, arguments, f(this).constructor)
+                    }
+                    return o.prototype = Object.create(t.prototype, {
+                        constructor: {
+                            value: o,
+                            enumerable: !1,
+                            writable: !0,
+                            configurable: !0
+                        }
+                    }), i(o, t)
+                })(t)
+            }
+
+            function c(t, n, e) {
+                return (c = u() ? Reflect.construct : function(t, n, e) {
+                    var o = [null];
+                    o.push.apply(o, n);
+                    var r = new(Function.bind.apply(t, o));
+                    return e && i(r, e.prototype), r
+                }).apply(null, arguments)
+            }
+
+            function u() {
+                if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
+                if (Reflect.construct.sham) return !1;
+                if ("function" == typeof Proxy) return !0;
+                try {
+                    return Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], (function() {}))), !0
+                } catch (t) {
+                    return !1
+                }
+            }
+
+            function i(t, n) {
+                return (i = Object.setPrototypeOf || function(t, n) {
+                    return t.__proto__ = n, t
+                })(t, n)
+            }
+
+            function f(t) {
+                return (f = Object.setPrototypeOf ? Object.getPrototypeOf : function(t) {
+                    return t.__proto__ || Object.getPrototypeOf(t)
+                })(t)
+            }
+            var l = function(t) {
+                ! function(t, n) {
+                    if ("function" != typeof n && null !== n) throw new TypeError("Super expression must either be null or a function");
+                    t.prototype = Object.create(n && n.prototype, {
+                        constructor: {
+                            value: t,
+                            writable: !0,
+                            configurable: !0
+                        }
+                    }), n && i(t, n)
+                }(s, t);
+                var r, c, l, a, p = (r = s, c = u(), function() {
+                    var t, n = f(r);
+                    if (c) {
+                        var e = f(this).constructor;
+                        t = Reflect.construct(n, arguments, e)
+                    } else t = n.apply(this, arguments);
+                    return o(this, t)
+                });
+
+                function s() {
+                    return n(this, s), p.apply(this, arguments)
+                }
+                return l = s, (a = [{
+                    key: "connectedCallback",
+                    value: function() {
+                        var t = this.innerHTML;
+                        this.innerHTML = '<button onclick="'.concat(this.getAttribute("click"), '">').concat(t, "</button>")
+                    }
+                }]) && e(l.prototype, a), s
+            }(r(HTMLElement));
+            customElements.define("app-button", l), new l;
+            var a = document.getElementById("up"),
+                p = document.getElementById("down"),
+                s = 0;
+            a.onclick = function() {
+                s += 1, document.getElementById("click-counter").innerHTML = s
+            };
+            var y = 0;
+            p.onclick = function() {
+                y -= 1, document.getElementById("click-counter").innerHTML = y
+            }
+        })();
+    </script>
+</body>
+
+</html>
