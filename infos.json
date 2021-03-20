@@ -1,1 +1,6 @@
-ok
+{
+    "StoreAuthor": "DerGoogler/DerGoogler",
+    "Version": "1.0",
+    "Description": "Official Store",
+    "Data": "store.json"
+}
