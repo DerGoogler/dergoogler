@@ -1,16 +1,35 @@
-[
-  {
+[{
     "name": "Hybrid TTS",
     "dev": "Der_Googler",
-    "description": "1.0",
-    "icon":"https://play-lh.googleusercontent.com/hVb5mbZDDRum0rUtNYSMp_12ANIyK3D1TRJqN3QgcBbzrCF7-LVlOsWDwDgOGytZgpQ=s200-rw",
-    "link": "https://google.com"
-},
- {
+    "icon": "https://play-lh.googleusercontent.com/hVb5mbZDDRum0rUtNYSMp_12ANIyK3D1TRJqN3QgcBbzrCF7-LVlOsWDwDgOGytZgpQ=s200-rw",
+    "download": {
+        "disabled": false,
+        "link": "https://play.google.com/store/apps/details?id=com.dergoogler.hybridtts"
+    },
+    "more": {
+        "disabled": true,
+        "version": "1.0",
+        "package": "com.dergoogler.hybridtts"
+    },
+    "screenshots": {
+        "_1": "https://play-lh.googleusercontent.com/nwO9GFEahTcz-hkj2GeiKoUvs-Yg_YsAqxHG9G1wWw1RTkFRKfyb8yxhKvnMVVHKPg=w720-h310-rw",
+        "_2": "https://play-lh.googleusercontent.com/nIXG6LICR9mouAen7FvOth8vMBfIOV0Y57-HblPjX1dSCdCNkTdrBsDpcqPJzByQrw=w720-h310-rw"
+    }
+}, {
     "name": "Bota64 App",
     "dev": "Der_Googler",
-    "description": "1.0",
-    "icon":"https://play-lh.googleusercontent.com/Y7icRph4Ah6-0J30-bvQviNUMLmaImc5JSSgtHB0azbDNNsqpF5-WX0HJV2mJEKjkfU=s200-rw",
-    "link": "https://google.com"
-}
-  ]
+    "icon": "https://play-lh.googleusercontent.com/Y7icRph4Ah6-0J30-bvQviNUMLmaImc5JSSgtHB0azbDNNsqpF5-WX0HJV2mJEKjkfU=s200-rw",
+    "download": {
+        "disabled": true,
+        "link": "https://play.google.com/store/apps/details?id=com.dergoogler.bota64"
+    },
+    "more": {
+        "disabled": false,
+        "version": "1.0",
+        "package": "com.dergoogler.bots64"
+    },
+    "screenshots": {
+        "_1": "https://play-lh.googleusercontent.com/NS5pBbwAlwlEGjar3FRornaWOovugmdKh_XF_hAH-BKgG0z51ifjFcaWmWnzALFUn8E=w720-h310-rw",
+        "_2": "https://play-lh.googleusercontent.com/L3C5poLR_n1XpGLJWanuYnNT9N6AekgDeZgJbKhTNn1avX01sMbiuCf-14Q_l3asSsw=w720-h310-rw"
+    }
+}]
