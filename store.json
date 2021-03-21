@@ -32,4 +32,21 @@
         "_1": "https://play-lh.googleusercontent.com/NS5pBbwAlwlEGjar3FRornaWOovugmdKh_XF_hAH-BKgG0z51ifjFcaWmWnzALFUn8E=w720-h310-rw",
         "_2": "https://play-lh.googleusercontent.com/L3C5poLR_n1XpGLJWanuYnNT9N6AekgDeZgJbKhTNn1avX01sMbiuCf-14Q_l3asSsw=w720-h310-rw"
     }
+}, {
+    "name": "YouTube Downloader",
+    "dev": "Der_Googler",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/h%C3%BCner-sind-schwul.png?alt=media&token=bd97b186-5fbd-4d7a-b325-9efaf3d32c08",
+    "download": {
+        "disabled": false,
+        "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/YouTube%20Downloader_1.0.apk?alt=media&token=bd53610e-1b5b-4d4e-b2f8-1b1005228731"
+    },
+    "more": {
+        "disabled": false,
+        "version": "1.0",
+        "package": "com.dergoogler.ytdownloader"
+    },
+    "screenshots": {
+        "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-010355_YouTube%20Downloader.png?alt=media&token=201eb7bf-a586-49e5-a7a6-2681b03affb6",
+        "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-010425_YouTube%20Downloader.png?alt=media&token=99da3922-6fd6-44c7-933b-81cd4dc20669"
+    }
 }]
