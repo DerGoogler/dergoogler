@@ -88,5 +88,23 @@
       "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-200558_Tellonym.png?alt\u003dmedia\u0026token\u003da787a475-d6cc-41b1-9da9-c64011604c7c",
       "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-200553_Tellonym.png?alt\u003dmedia\u0026token\u003d979a856e-1fec-4f94-ab58-aa9edb68c4b3"
     }
+  },
+  {
+    "name": "APK Builder",
+    "dev": "Steelworks",
+    "icon": "https://image.winudf.com/v2/image1/Y29tLmdtYWlsLmhlYWdvby5hcGtidWlsZGVyX2ljb25fMTU1MDQxMTA0M18wODA/icon.png?w\u003d100\u0026fakeurl\u003d1",
+    "download": {
+      "disabled": false,
+      "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/APK%20Builder.apk?alt\u003dmedia\u0026token\u003dcc83ce38-756e-4d3f-9e27-f77b7efd2cfe"
+    },
+    "more": {
+      "disabled": false,
+      "version": "1.1.0 (11)",
+      "package": "com.gmail.heagoo.apkbuilder"
+    },
+    "screenshots": {
+      "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210322-090520_APK%20Builder.png?alt\u003dmedia\u0026token\u003d3953ff63-c55c-4214-ad1b-a4f071e228bd",
+      "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210322-090504_APK%20Builder.png?alt\u003dmedia\u0026token\u003d49e26aa9-fbff-41db-ae85-06a15535a9d0"
+    }
   }
 ]
