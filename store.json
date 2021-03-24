@@ -1,110 +1,109 @@
-[
-  {
-    "name": "Official Store",
-    "dev": "Der_Googler",
-    "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/store_icon.png?alt\u003dmedia\u0026token\u003d9c49244c-2a36-4685-997b-622aac7d2b8b",
-    "download": {
-      "disabled": false,
-      "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Store_1.1.signed.apk?alt\u003dmedia\u0026token\u003da0374ae8-76fd-45ac-83ae-557ff93e7295"
+[{
+        "name": "Official Store",
+        "dev": "Der_Googler",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/store_icon.png?alt\u003dmedia\u0026token\u003d9c49244c-2a36-4685-997b-622aac7d2b8b",
+        "download": {
+            "disabled": false,
+            "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Store_1.1.signed.apk?alt\u003dmedia\u0026token\u003da0374ae8-76fd-45ac-83ae-557ff93e7295"
+        },
+        "more": {
+            "disabled": true,
+            "version": "not provided",
+            "package": "not provided"
+        },
+        "description": {
+            "disabled": false,
+            "text": "[LINK](https://google.com)"
+        }
     },
-    "more": {
-      "disabled": true,
-      "version": "not provided",
-      "package": "not provided"
+    {
+        "name": "APK Builder",
+        "dev": "Steelworks",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmdtYWlsLmhlYWdvby5hcGtidWlsZGVyX2ljb25fMTU1MDQxMTA0M18wODA/icon.png?w\u003d100\u0026fakeurl\u003d1",
+        "download": {
+            "disabled": false,
+            "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/APK%20Builder.apk?alt\u003dmedia\u0026token\u003dcc83ce38-756e-4d3f-9e27-f77b7efd2cfe"
+        },
+        "more": {
+            "disabled": false,
+            "version": "1.1.0 (11)",
+            "package": "com.gmail.heagoo.apkbuilder"
+        },
+        "description": {
+            "disabled": true,
+            "text": "[LINK](https://google.com)"
+        }
     },
-    "screenshots": {
-      "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-201555_Store.png?alt\u003dmedia\u0026token\u003d9dbc5bb9-aa99-4bf7-9627-97b5849c98fc",
-      "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-201549_Store.png?alt\u003dmedia\u0026token\u003dbd10329a-b491-4b56-9bbd-fdb71a475a11"
+    {
+        "name": "Hybrid TTS",
+        "dev": "Der_Googler",
+        "icon": "https://play-lh.googleusercontent.com/hVb5mbZDDRum0rUtNYSMp_12ANIyK3D1TRJqN3QgcBbzrCF7-LVlOsWDwDgOGytZgpQ\u003ds200-rw",
+        "download": {
+            "disabled": false,
+            "link": "https://play.google.com/store/apps/details?id\u003dcom.dergoogler.hybridtts"
+        },
+        "more": {
+            "disabled": false,
+            "version": "1.0",
+            "package": "com.dergoogler.hybridtts"
+        },
+        "description": {
+            "disabled": true,
+            "text": "[LINK](https://google.com)"
+        }
+    },
+    {
+        "name": "Bota64 App",
+        "dev": "Der_Googler",
+        "icon": "https://play-lh.googleusercontent.com/Y7icRph4Ah6-0J30-bvQviNUMLmaImc5JSSgtHB0azbDNNsqpF5-WX0HJV2mJEKjkfU\u003ds200-rw",
+        "download": {
+            "disabled": false,
+            "link": "https://play.google.com/store/apps/details?id\u003dcom.dergoogler.bota64"
+        },
+        "more": {
+            "disabled": false,
+            "version": "1.0",
+            "package": "com.dergoogler.bots64"
+        },
+        "description": {
+            "disabled": true,
+            "text": "[LINK](https://google.com)"
+        }
+    },
+    {
+        "name": "YouTube Downloader",
+        "dev": "Der_Googler",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/h%C3%BCner-sind-schwul.png?alt\u003dmedia\u0026token\u003dbd97b186-5fbd-4d7a-b325-9efaf3d32c08",
+        "download": {
+            "disabled": false,
+            "link": "https://github.com/DerGoogler/general-releases/releases/download/1.0-YT-DL/YouTube.Downloader_1.0.apk"
+        },
+        "more": {
+            "disabled": false,
+            "version": "1.0",
+            "package": "com.dergoogler.ytdownloader"
+        },
+        "description": {
+            "disabled": true,
+            "text": "[LINK](https://google.com)"
+        }
+    },
+    {
+        "name": "Tellonym (Cloned APK)",
+        "dev": "Tellonym, Der_Googler",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/ZzjyqN50_400x400.png?alt\u003dmedia\u0026token\u003db3c2d639-369d-43ec-b1e5-ff91470d481b",
+        "download": {
+            "disabled": false,
+            "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Tellonym_2.62.0.apk?alt\u003dmedia\u0026token\u003dd7e402ec-e945-4a74-b7ba-5149025d9eac"
+        },
+        "more": {
+            "disabled": false,
+            "version": "2.62.0 (408)",
+            "package": "de.tellonym.apq"
+        },
+        "description": {
+            "disabled": true,
+            "text": "[LINK](https://google.com)"
+        }
     }
-  },
-  {
-    "name": "APK Builder",
-    "dev": "Steelworks",
-    "icon": "https://image.winudf.com/v2/image1/Y29tLmdtYWlsLmhlYWdvby5hcGtidWlsZGVyX2ljb25fMTU1MDQxMTA0M18wODA/icon.png?w\u003d100\u0026fakeurl\u003d1",
-    "download": {
-      "disabled": false,
-      "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/APK%20Builder.apk?alt\u003dmedia\u0026token\u003dcc83ce38-756e-4d3f-9e27-f77b7efd2cfe"
-    },
-    "more": {
-      "disabled": false,
-      "version": "1.1.0 (11)",
-      "package": "com.gmail.heagoo.apkbuilder"
-    },
-    "screenshots": {
-      "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210322-090520_APK%20Builder.png?alt\u003dmedia\u0026token\u003d3953ff63-c55c-4214-ad1b-a4f071e228bd",
-      "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210322-090504_APK%20Builder.png?alt\u003dmedia\u0026token\u003d49e26aa9-fbff-41db-ae85-06a15535a9d0"
-    }
-  },
-  {
-    "name": "Hybrid TTS",
-    "dev": "Der_Googler",
-    "icon": "https://play-lh.googleusercontent.com/hVb5mbZDDRum0rUtNYSMp_12ANIyK3D1TRJqN3QgcBbzrCF7-LVlOsWDwDgOGytZgpQ\u003ds200-rw",
-    "download": {
-      "disabled": false,
-      "link": "https://play.google.com/store/apps/details?id\u003dcom.dergoogler.hybridtts"
-    },
-    "more": {
-      "disabled": false,
-      "version": "1.0",
-      "package": "com.dergoogler.hybridtts"
-    },
-    "screenshots": {
-      "_1": "https://play-lh.googleusercontent.com/nwO9GFEahTcz-hkj2GeiKoUvs-Yg_YsAqxHG9G1wWw1RTkFRKfyb8yxhKvnMVVHKPg\u003dw720-h310-rw",
-      "_2": "https://play-lh.googleusercontent.com/nIXG6LICR9mouAen7FvOth8vMBfIOV0Y57-HblPjX1dSCdCNkTdrBsDpcqPJzByQrw\u003dw720-h310-rw"
-    }
-  },
-  {
-    "name": "Bota64 App",
-    "dev": "Der_Googler",
-    "icon": "https://play-lh.googleusercontent.com/Y7icRph4Ah6-0J30-bvQviNUMLmaImc5JSSgtHB0azbDNNsqpF5-WX0HJV2mJEKjkfU\u003ds200-rw",
-    "download": {
-      "disabled": false,
-      "link": "https://play.google.com/store/apps/details?id\u003dcom.dergoogler.bota64"
-    },
-    "more": {
-      "disabled": false,
-      "version": "1.0",
-      "package": "com.dergoogler.bots64"
-    },
-    "screenshots": {
-      "_1": "https://play-lh.googleusercontent.com/NS5pBbwAlwlEGjar3FRornaWOovugmdKh_XF_hAH-BKgG0z51ifjFcaWmWnzALFUn8E\u003dw720-h310-rw",
-      "_2": "https://play-lh.googleusercontent.com/L3C5poLR_n1XpGLJWanuYnNT9N6AekgDeZgJbKhTNn1avX01sMbiuCf-14Q_l3asSsw\u003dw720-h310-rw"
-    }
-  },
-  {
-    "name": "YouTube Downloader",
-    "dev": "Der_Googler",
-    "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/h%C3%BCner-sind-schwul.png?alt\u003dmedia\u0026token\u003dbd97b186-5fbd-4d7a-b325-9efaf3d32c08",
-    "download": {
-      "disabled": false,
-      "link": "https://github.com/DerGoogler/general-releases/releases/download/1.0-YT-DL/YouTube.Downloader_1.0.apk"
-    },
-    "more": {
-      "disabled": false,
-      "version": "1.0",
-      "package": "com.dergoogler.ytdownloader"
-    },
-    "screenshots": {
-      "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-010355_YouTube%20Downloader.png?alt\u003dmedia\u0026token\u003d201eb7bf-a586-49e5-a7a6-2681b03affb6",
-      "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-010425_YouTube%20Downloader.png?alt\u003dmedia\u0026token\u003d99da3922-6fd6-44c7-933b-81cd4dc20669"
-    }
-  },
-  {
-    "name": "Tellonym (Cloned APK)",
-    "dev": "Tellonym, Der_Googler",
-    "icon": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/ZzjyqN50_400x400.png?alt\u003dmedia\u0026token\u003db3c2d639-369d-43ec-b1e5-ff91470d481b",
-    "download": {
-      "disabled": false,
-      "link": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Tellonym_2.62.0.apk?alt\u003dmedia\u0026token\u003dd7e402ec-e945-4a74-b7ba-5149025d9eac"
-    },
-    "more": {
-      "disabled": false,
-      "version": "2.62.0 (408)",
-      "package": "de.tellonym.apq"
-    },
-    "screenshots": {
-      "_1": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-200558_Tellonym.png?alt\u003dmedia\u0026token\u003da787a475-d6cc-41b1-9da9-c64011604c7c",
-      "_2": "https://firebasestorage.googleapis.com/v0/b/dergoooogler.appspot.com/o/Screenshot_20210321-200553_Tellonym.png?alt\u003dmedia\u0026token\u003d979a856e-1fec-4f94-ab58-aa9edb68c4b3"
-    }
-  }
 ]
