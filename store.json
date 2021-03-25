@@ -14,7 +14,7 @@
     },
     "description": {
       "disabled": false,
-      "text": "#### Official App Store\n\nDownload it to get more support for it!\n\n\u003e 2021 (C) Der_Googler"
+      "text": "#### Official App Store\n\nDownload it to get more support for it!\n\n\u003e 2021 (C) \u003cdiv onclick\u003d\"store.makeToast\"\u003eDer_Googler\u003c/div\u003e"
     }
   },
   {
